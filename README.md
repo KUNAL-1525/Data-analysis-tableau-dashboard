@@ -6,7 +6,11 @@ The HR Analytics Dashboard is an interactive visualization created using Tableau
 # Objectives
 ## The main objectives of this project are:
 Analyze Employee Trends – Track the total number of employees and active employees in the organization.
+
 Understand Attrition – Identify attrition count, attrition rate, and trends across different departments, tenure groups, and education fields.
+
 Evaluate Employee Satisfaction – Assess job satisfaction ratings to identify potential areas of improvement.
+
 Identify Key Demographics – Visualize employees by age group, average age distribution, and tenure-based attrition.
+
 Support Data-Driven HR Decisions – Provide insights through KPIs, pie charts, heat maps, bar charts, and donut charts to facilitate HR strategies.
